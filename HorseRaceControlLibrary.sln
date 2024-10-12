@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseRaceControlLibrary", "HorseRaceControlLibrary\HorseRaceControlLibrary.csproj", "{3441D16B-BC45-480D-A219-377EA12E7F8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseRaceApp", "HorseRaceApp\HorseRaceApp.csproj", "{7DC762FE-E941-4243-A134-F4B1D6E64F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3441D16B-BC45-480D-A219-377EA12E7F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3441D16B-BC45-480D-A219-377EA12E7F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3441D16B-BC45-480D-A219-377EA12E7F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3441D16B-BC45-480D-A219-377EA12E7F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC762FE-E941-4243-A134-F4B1D6E64F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC762FE-E941-4243-A134-F4B1D6E64F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC762FE-E941-4243-A134-F4B1D6E64F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC762FE-E941-4243-A134-F4B1D6E64F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD5C1219-E231-45EC-8347-42B646EBDAEE}
+	EndGlobalSection
+EndGlobal
